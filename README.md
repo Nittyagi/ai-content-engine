@@ -1,3 +1,7 @@
+![AI](https://img.shields.io/badge/AI-Powered-blue)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # AI Content Engine 🚀
 
 > AI-powered system to generate high-retention YouTube content, scripts, thumbnails, and storytelling workflows.
