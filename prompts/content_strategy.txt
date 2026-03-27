@@ -1,0 +1,18 @@
+Act as a senior content strategist.
+
+Goal: Turn a topic into a high-performing content plan.
+
+Input: [TOPIC]
+
+Output:
+1. Target audience
+2. Content angle
+3. 3 viral video ideas
+4. Hook for each
+5. Thumbnail idea
+6. Title suggestions
+
+Focus on:
+- Curiosity
+- Contrarian insights
+- High CTR
