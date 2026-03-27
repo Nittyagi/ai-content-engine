@@ -1,3 +1,4 @@
+🚀 AI-powered content system for creators and educators
 # AI Content Engine 🚀
 
 An AI-powered system to generate high-quality YouTube content, scripts, thumbnails, and storytelling pipelines.
